@@ -5,7 +5,7 @@ public class MainClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("test");
+		System.out.println("test this is about to change");
 
 		System.out.println("test");
 		System.out.println("test");
@@ -20,7 +20,7 @@ public class MainClass {
 			System.out.println("anothert");
 			for (int x = 0; x < 10; x++) {
 				System.out.println("test");
-				System.out.println("anothert");
+				System.out.println("anothert this is about to change");
 
 			}
 		}
